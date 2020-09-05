@@ -1,3 +1,1 @@
 # TTBLSolidWorks
-
-PRint the case first, then the rest. supposedly the printers will fail to complete if you print too much at once...
